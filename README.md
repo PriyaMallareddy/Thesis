@@ -1,13 +1,24 @@
 # Thesis
-# Retrieval-Augmented Generation for Context-Aware LLM Interfaces
+# Context-Aware Interfaces for Large Language Models using Retrieval-Augmented Generation
 
-This repository contains materials related to my Master's thesis at
-Southern Illinois University Carbondale.
+This repository contains materials related to my Master's thesis in Computer Science at Southern Illinois University Carbondale.
 
-Contents:
-- Thesis report
-- Thesis defense presentation
-- Prototype implementation of a RAG pipeline
+## Project Overview
+Large Language Models often struggle with factual accuracy because they rely solely on their training data.  
+This research explores how Retrieval-Augmented Generation (RAG) can improve reasoning and factual grounding by incorporating external knowledge retrieval.
 
-The project explores how retrieval mechanisms can improve factual
-accuracy and contextual reasoning in Large Language Models.
+## Repository Contents
+- rag_thesis_report.pdf → Full thesis document
+- rag_thesis_presentation.pptx → Thesis defense presentation
+- rag_pipeline.ipynb → Prototype implementation of the RAG pipeline
+
+## Technologies Used
+- Python
+- Natural Language Processing
+- Retrieval-Augmented Generation
+- Large Language Models
+
+## Author
+Siri Priya Katta
+MS Computer Science
+Southern Illinois University Carbondale
